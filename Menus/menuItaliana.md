@@ -12,7 +12,7 @@
 
 **Plato 3
 
-## Bebidas 
+## Bebidas
 
 ** Bebida 1
 
@@ -20,10 +20,10 @@
 
 ** Bebida 3
 
-## Recomendados o Sugerencias 
+## Recomendados o Sugerencias
 
 ** Sugerencia 1
 
 ** Sugerencia 2
 
-** Segerencia 3
+** Sugerencia 3
