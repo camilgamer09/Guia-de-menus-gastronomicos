@@ -10,4 +10,12 @@
 
 ** Plato 2
 
-**Plato 3
+** Plato 3
+
+## Bebidas
+
+** Bebida 1
+
+** Bebida 2
+
+** Bebida 3
