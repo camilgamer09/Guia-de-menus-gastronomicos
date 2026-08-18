@@ -10,7 +10,7 @@
 
 ** Plato 2
 
-**Plato 3
+** Plato 3
 
 ## Bebidas
 
